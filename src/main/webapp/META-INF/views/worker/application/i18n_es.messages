@@ -1,0 +1,32 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+    worker.application.list.label.referenceNumber =  Numero de referencia
+	worker.application.list.label.creationMoment =  Fecha creacion 
+	worker.application.list.label.status =  Estado
+	worker.application.list.label.statement =  Declaracion
+	worker.application.list.label.someSkills =  Algunas habilidades
+	worker.application.list.label.someQualifications =  Algunas calificaciones
+
+    worker.application.form.label.referenceNumber =  Numero de referencia
+	worker.application.form.label.creationMoment =  Fecha creacion 
+	worker.application.form.label.status =  Estado
+	worker.application.form.label.statement =  Declaracion
+	worker.application.form.label.someSkills =  Algunas habilidades
+	worker.application.form.label.someQualifications =  Algunas calificaciones
+	worker.application.form.label.job.reference = Referencia del Trabajo
+	worker.application.form.button.create = Crear
+	worker.application.form.label.job.nuevo.texto = Reto para el trabajo
+	worker.application.form.label.job.nuevo.link = Link adicional para el reto
+	
+	worker.answer.form.button.crearanswer = Responder al Colet
+	worker.answer.form.button.answer = Mostrar mi respuesta
+
+	worker.application.form.button.return =  Volver

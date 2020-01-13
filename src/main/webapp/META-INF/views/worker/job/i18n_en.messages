@@ -1,0 +1,36 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+worker.job.form.label.title= Title:
+worker.job.form.label.deadline= Deadline:
+worker.job.form.label.reference=Reference:
+worker.job.form.label.salary= Salary:
+worker.job.form.label.moreInfo= More Information:
+worker.job.form.label.finalMode= Final Mode:
+worker.job.form.label.status= Status:
+worker.job.form.label.descriptor = Descriptor:
+worker.job.form.label.finalMode = Final Mode:
+worker.job.form.label.status = Status:
+worker.job.form.label.active = Active:
+worker.job.form.label.description = Description:
+worker.job.form.button.associate = Associate with a new Application
+worker.colet.form.button.colet = Show Colet
+
+worker.job.form.button.return= Return
+
+
+worker.job.list.label.reference= Reference
+worker.job.list.label.deadline= Deadline
+worker.job.list.label.title= Title
+worker.job.list.label.salary= Salary:
+worker.job.list.label.moreInfo= More Information:
+worker.job.list.label.finalMode= Final Mode:
+worker.job.list.label.status= Status:
+

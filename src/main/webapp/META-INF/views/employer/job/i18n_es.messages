@@ -1,0 +1,55 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+employer.job.form.label.title= Titulo:
+employer.job.form.label.deadline= Fecha limite:
+employer.job.form.label.reference=Referencia:
+employer.job.form.label.salary= Salario:
+employer.job.form.label.moreInfo= Más Información:
+employer.job.form.label.finalMode= Modo Final:
+employer.job.form.label.status= Estado:
+employer.job.form.label.finalMode = Modo Final:
+employer.job.form.label.status = Estado:
+employer.job.form.label.active = Activo: 
+employer.job.form.label.description = Descripcion:
+employer.job.form.label.true = Sí
+employer.job.form.label.false = No
+employer.job.form.label.nuevo.password = Contraseña del reto:
+employer.job.form.label.nuevo.text = Texto del reto:
+employer.job.form.label.nuevo.link = Link del reto:
+employer.job.error.nuevo.text = El texto no puede estar vacío, si escribe el link
+employer.colet.form.button.crearcolet = Crear un Colet
+employer.colet.form.button.colet = Mostrar Colet
+
+employer.job.form.button.return= Volver
+employer.job.form.button.update= Actualizar
+employer.job.form.button.delete= Eliminar
+employer.job.form.button.duties = Deberes
+employer.job.form.button.create = Crear
+employer.job.form.button.crearduties= Crear un deber
+
+
+
+
+employer.job.list.label.reference= Referencia
+employer.job.list.label.deadline= Fecha Limite
+employer.job.list.label.title= Titulo
+employer.job.list.label.salary= Salario:
+employer.job.list.label.moreInfo= Más Información:
+employer.job.list.label.finalMode= Modo Final:
+employer.job.list.label.status= Estado:
+
+
+#ERRORES
+employer.job.error.finalmode = No se puede actualizar un trabajo en modo final
+employer.job.error.conaplicacion = No se puede eliminar si hay una aplicación asignada a tu trabajo
+employer.job.error.descriptor.description = Su descripcion contiene palabras spam
+employer.job.error.titulo = Su titulo contiene palabras spam
+employer.job.error.descriptor.dutiesCien = El porcentaje semanal de los deberes no suma 100%

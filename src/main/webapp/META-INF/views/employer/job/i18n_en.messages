@@ -1,0 +1,55 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+employer.job.form.label.title= Title:
+employer.job.form.label.deadline= Deadline:
+employer.job.form.label.reference=Reference:
+employer.job.form.label.salary= Salary:
+employer.job.form.label.moreInfo= More Information:
+employer.job.form.label.finalMode= Final Mode:
+employer.job.form.label.status= Status:
+employer.job.form.label.finalMode = Final Mode:
+employer.job.form.label.status = Status:
+employer.job.form.label.active = Active: 
+employer.job.form.label.description = Description:
+employer.job.form.label.status.draft = DRAFT
+employer.job.form.label.status.published = PUBLISHED
+employer.job.form.label.true = Yes
+employer.job.form.label.false = No
+employer.job.form.label.nuevo.password = Password of the challenge:
+employer.job.form.label.nuevo.text = Text of the challenge:
+employer.job.form.label.nuevo.link = Link of the challenge:
+employer.job.error.nuevo.text = The text can't be empty if the link is filled
+employer.colet.form.button.crearcolet = Create a Colet
+employer.colet.form.button.colet = Show Colet
+
+employer.job.form.button.return= Return
+employer.job.form.button.duties= Duties
+employer.job.form.button.update= Update
+employer.job.form.button.create= Create
+employer.job.form.button.delete= Delete
+employer.job.form.button.crearduties= Create a Duty
+
+
+employer.job.list.label.reference= Reference
+employer.job.list.label.deadline= Deadline
+employer.job.list.label.title= Title
+employer.job.list.label.salary= Salary:
+employer.job.list.label.moreInfo= More Information:
+employer.job.list.label.finalMode= Final Mode:
+employer.job.list.label.status= Status:
+
+
+#ERRORES
+employer.job.error.finalmode = Cannot update a job in final mode
+employer.job.error.conaplicacion = Cannot delete if you have a application assigned to your job 
+employer.job.error.descriptor.description = Your description contains spam words
+employer.job.error.titulo = Your tittle contains spam words
+employer.job.error.descriptor.dutiesCien = Duties percentage doesn't sum 100%

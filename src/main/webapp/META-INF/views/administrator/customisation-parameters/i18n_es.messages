@@ -1,0 +1,8 @@
+administrator.customisationParameters.list.label.words = Lista de palabras spam
+administrator.customisationParameters.list.label.threshold = Umbral
+
+administrator.customisationParameters.form.label.words = Lista de palabras spam
+administrator.customisationParameters.form.label.threshold =  Umbral
+
+administrator.customisationParameters.form.button.update = Actualizar
+administrator.customisationParameters.form.button.return = Retorno

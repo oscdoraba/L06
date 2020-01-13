@@ -1,0 +1,138 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+# master.banner.welcome #######################################################
+
+master.banner.background = #FFFFFF 
+
+﻿# master.welcome ##############################################################
+
+master.welcome.title = ¡Bienvenidos!
+master.welcome.text = \
+	Bienvenidos al proyecto de Team Master!
+
+# master.menu #################################################################
+
+master.menu.home = Inicio
+master.menu.sign-up = Registrarse
+master.menu.sign-in = Entrar
+master.menu.sign-out = Salir
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous = Anónimo
+master.menu.anonymous.favourite-link = Enlace favorito
+master.menu.anonymous.announcement = Listar Anuncios
+master.menu.anonymous.investor = Listar Investigadores
+master.menu.anonymous.companyRecords = Listar Compañias
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrador
+master.menu.administrator.user-accounts = Cuentas de usuario
+master.menu.administrator.announcement = Listar Anuncios
+master.menu.administrator.announcement.create = Crear Anuncio
+master.menu.administrator.investor = Listar Investigadores
+master.menu.administrator.investor.create = Crear Investigador
+master.menu.administrator.companyRecords = Listar Compañias
+master.menu.administrator.companyRecords.create = Crear Compañia
+master.menu.administrator.customisationParameters = Listar parametros de personalización
+master.menu.administrator.challenges = Listar Retos
+master.menu.administrator.challenges.create = Crear Reto
+master.menu.administrator.shutdown = Parar el sistema
+master.menu.administrator.dashboard = Mostrar Ratios
+
+# master.menu.provider ########################################################
+
+master.menu.provider = Proveedor
+master.menu.provider.favourite-link = Enlace favorito
+master.menu.provider.investor = Listar Investigadores
+master.menu.provider.announcement = Listar Anuncios
+master.menu.provider.companyRecords = Listar Compañias
+master.menu.provider.requests = Listar Solicitaciones
+master.menu.provider.requests.create = Crear Solicitacion
+master.menu.provider.offer = Listar Ofertas
+master.menu.provider.challenges= Listar Desafios
+
+
+# master.menu.consumer ##########################################################
+
+master.menu.consumer = Consumidor
+master.menu.consumer.favourite-link = Enlace favorito
+master.menu.consumer.investor = Listar Investigadores
+master.menu.consumer.announcement = Listar Anuncios
+master.menu.consumer.companyRecords = Listar Compañias
+master.menu.consumer.requests = Listar Solicitaciones 
+master.menu.consumer.offer = Listar Ofertas
+master.menu.consumer.challenges= Listar Desafios
+master.menu.consumer.offer.create = Crear Oferta
+
+
+# master.menu.worker ##########################################################
+
+master.menu.worker = Trabajador
+master.menu.worker.applications.list = Listar Aplicaciones
+master.menu.worker.job.list = Listar Trabajos
+
+# master.menu.employer ########################################################
+
+master.menu.employer = Empleado
+master.menu.employer.job.listMine = Listar mis trabajos
+master.menu.employer.job.create = Crear un trabajo
+master.menu.employer.application.listMine = Listar mis applicaciones
+
+
+# master.menu.authenticated ##################################################
+
+master.menu.authenticated.jobs= Listar trabajos activos
+
+
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Cuenta
+master.menu.user-account.general-data = Datos generales
+master.menu.user-account.provider = Datos de proveedor
+master.menu.user-account.become-provider = Hazte proveedor
+master.menu.user-account.consumer = Datos de consumidor
+master.menu.user-account.become-consumer = Hazte consumidor
+master.menu.user-account.employer = Datos de empleado
+master.menu.user-account.become-employer = Hazte empleado
+master.menu.user-account.worker = Datos trabajador
+master.menu.user-account.become-worker = Hazte trabajador
+
+﻿# master.footer ###############################################################
+
+master.footer.title.about = Nosotros
+master.footer.label.company = La empresa
+master.footer.label.license = Licencia
+master.footer.title.social = Social
+master.footer.label.linked-in = Linked-In
+master.footer.label.twitter = Twitter
+master.footer.title.languages = Lenguages
+master.footer.label.english = Inglés
+master.footer.label.spanish = Español
+
+# master.company ##############################################################
+
+master.company.title = La compañía
+master.company.text = \
+	Team Master Project, Inc. es una compañía fictícia que proporciona un proyecto \
+	team master plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
+	en Ingeniería del Software de la Universidad de Sevilla.
+master.company.name = Team Master Project, Inc.
+master.company.address = Av. Reina Mercedes
+master.company.phone = +000 123 456
+master.company.email = teammasterpldh@gmail.com
+
+# master.license ##############################################################
+
+master.license.title = Licencia para Team Master
+master.license.text = Texto para licencia de Team Master
+	

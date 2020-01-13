@@ -1,0 +1,24 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.requests.form.label.title= Titulo:
+authenticated.requests.form.label.moment= Momento:
+authenticated.requests.form.label.deadline= Fecha limite:
+authenticated.requests.form.label.description= Descripcion:
+authenticated.requests.form.label.reward= Recompensa:
+authenticated.requests.form.label.ticker= Teletipo:
+authenticated.requests.form.button.return= Volver
+authenticated.requests.form.button.create = Crear
+authenticated.requests.error.must-accept = Debes aceptar la creacion de la solicitud
+authenticated.request.label.accept = ¿Seguro que quieres crear esta solicitud?
+consumer.requests.error.duplicated = El teletipo ya existe
+
+authenticated.requests.list.label.moment= Momento
+authenticated.requests.list.label.title= Titulo

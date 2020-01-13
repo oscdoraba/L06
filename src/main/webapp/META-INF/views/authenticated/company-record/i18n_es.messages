@@ -1,0 +1,13 @@
+authenticated.companyRecord.list.label.name = Nombre
+authenticated.companyRecord.list.label.sector = Sector
+authenticated.companyRecord.list.label.activities = Actividades
+authenticated.companyRecord.list.label.stars = Estrellas
+
+authenticated.companyRecord.form.label.name = Nombre
+authenticated.companyRecord.form.label.sector = Sector
+authenticated.companyRecord.form.label.ceoName = Nombre del CEO
+authenticated.companyRecord.form.label.activities = Actividades
+authenticated.companyRecord.form.label.web = Web
+authenticated.companyRecord.form.label.phone = Telefono
+authenticated.companyRecord.form.label.email = Email
+authenticated.companyRecord.form.label.stars = Estrellas

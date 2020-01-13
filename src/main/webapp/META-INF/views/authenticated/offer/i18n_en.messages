@@ -1,0 +1,31 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.offer.form.label.moment= Moment:
+authenticated.offer.form.label.title= Title:
+authenticated.offer.form.label.deadline= DeadLine:
+authenticated.offer.form.label.description= Description:
+authenticated.offer.form.label.minMoney= Minimum Money:
+authenticated.offer.form.label.maxMoney= Maximum Money:
+authenticated.offer.form.label.ticker= Ticker:
+authenticated.offer.form.button.return= Return
+authenticated.offer.form.button.create= Create
+authenticated.offer.error.must-accept = You must accept the creation of this offer
+authenticated.offer.label.accept = Are you sure of creating this offer?
+consumer.offer.error.min-euro = The minimum money must be EUR or €
+consumer.offer.error.max-euro = The maximum money must be EUR or €
+consumer.offer.error.must-be-less = The amount of the minimum must be bigger than the maximum amount
+consumer.offer.error.duplicated = Ticker almost exists
+
+authenticated.offer.list.label.moment= Moment
+authenticated.offer.list.label.title= Title
+authenticated.offer.list.label.deadline= DeadLine
+authenticated.offer.list.label.description= Description
+authenticated.offer.list.label.ticker= Ticker

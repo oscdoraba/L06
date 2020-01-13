@@ -1,0 +1,13 @@
+anonymous.companyRecord.list.label.name = Name
+anonymous.companyRecord.list.label.sector = Sector
+anonymous.companyRecord.list.label.activities = Activities
+anonymous.companyRecord.list.label.stars = Stars
+
+anonymous.companyRecord.form.label.name = Name
+anonymous.companyRecord.form.label.sector = Sector
+anonymous.companyRecord.form.label.ceoName = CEO name
+anonymous.companyRecord.form.label.activities = Activities
+anonymous.companyRecord.form.label.web = Web
+anonymous.companyRecord.form.label.phone = Phone
+anonymous.companyRecord.form.label.email = Email
+anonymous.companyRecord.form.label.stars = Stars
